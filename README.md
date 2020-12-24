@@ -1,3 +1,7 @@
+# VHair HDRP Test
+
+https://media.giphy.com/media/Drhnd5PLLQJtOSevyq/source.mp4
+
 # VHair
 
 This is a currently in-development realtime hair rendering solution.
